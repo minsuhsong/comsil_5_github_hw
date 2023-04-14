@@ -1,2 +1,7 @@
 textfile.txt
+<<<<<<< HEAD
 수정1
+=======
+수정1
+수정3
+>>>>>>> secondbranch

@@ -1,2 +1,7 @@
 newtext.txt
+<<<<<<< HEAD
 수정1
+=======
+수정1
+수정2
+>>>>>>> secondbranch
