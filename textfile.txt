@@ -1,7 +1,13 @@
 textfile.txt
 <<<<<<< HEAD
+<<<<<<< HEAD
 수정1
 =======
 수정1
 수정3
 >>>>>>> secondbranch
+=======
+수정1
+수정2
+수정3
+>>>>>>> thirdbranch
